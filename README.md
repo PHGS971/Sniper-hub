@@ -37,3 +37,4 @@ end
 })
 
 
+-- ATENÇÃO este script esta em CRIAÇÃO se caso algo acontecer com boce ou com sua conta bem o ploblema é seu recomendamos não usar até a SniperX hub Alpha test mudar para SniperX hub cmp
